@@ -1,2 +1,3 @@
 # Makefile
-Skelector Makefile
+
+OpenCL Makefile
